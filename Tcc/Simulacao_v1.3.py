@@ -65,3 +65,5 @@ horas, minutos, segundos = converter_para_horas_minutos_segundos(tempo_total_ace
 print(f"Tempo total que a luminária permaneceu acesa: {horas} horas, {minutos} minutos e {segundos} segundos.")
 print(f"Porcentagem de tempo que a luminária fica acesa pelo tempo de simulação {percentual_tempo_acesa} %.")
 print(f"Quantidade de carros que passaram durante a simulação: {quantidade_carros} Carros.")
+
+#Esta versão é a que mais se aproxima do real valor de simulação de trafego de apenas carros
